@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsarse",
+        "uuid": 645606,
+        "checksum": "oqeuw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
